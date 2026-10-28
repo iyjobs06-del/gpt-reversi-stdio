@@ -1,6 +1,6 @@
 # GPT Reversi local distribution
 
-This repository packages the Reversi test for the recipient's own Windows PC. Read README.md for setup and supported connection paths.
+This repository packages the Reversi test for the recipient's own Windows PC or Mac. Read README.md for setup and supported connection paths.
 
 - Preserve the separation between local rules/state and the current chat model's choice of white moves. Do not add a conventional opponent or inference API to simulate GPT integration.
 - All paths must be relative to this downloaded package. Do not reuse an author's endpoint, absolute path, account, or installed runtime.
